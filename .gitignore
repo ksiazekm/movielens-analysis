@@ -1,5 +1,7 @@
 .ipynb_checkpoints
 ml-1m/*
 !ml-1m/.gitkeep
+!ml-1m/age.dat
+!ml-1m/occupation.dat
 ml-20m/*
 !ml-20m/.gitkeep
